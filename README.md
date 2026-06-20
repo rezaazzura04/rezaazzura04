@@ -4,7 +4,7 @@
 
 **Environmental Engineer · ESG Analyst · Carbon Accounting Specialist**
 
-*Universitas Brawijaya — Environmental Engineering '26*
+*Brawijaya University — Environmental Engineering '21*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezaazzura)
 [![Email](https://img.shields.io/badge/Email-rezaazzura04@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rezaazzura04@gmail.com)
