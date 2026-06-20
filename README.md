@@ -24,7 +24,7 @@ Currently finishing my thesis on **blue carbon stock assessment in Mahakam Delta
 
 ### Featured Project
 
-**[🌊 CarbonLens V7](https://github.com/rezaazzura04/carbonlens-v7)** — Full-stack ESG analytics platform
+**[🌊 CarbonLens V7](https://github.com/rezaazzura04/carbonlens)** — Full-stack ESG analytics platform
 
 A 20-page Streamlit app covering the full decarbonization workflow: GHG inventory (Scope 1/2/3) → sector benchmarking (KLHK PROPER/IESR) → MACC-based decarbonization planning → GRI 200/300/400 gap analysis → POJK 51 compliance → carbon credit offset estimation → PDF/Excel/JSON export. Indonesia-specific throughout (PLN grid factors Kepmen ESDM 18/2023, Perpres 110/2025, IDX Carbon).
 
